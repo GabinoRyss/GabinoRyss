@@ -25,23 +25,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Gabino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabinoreyes&show_icons=true&theme=radical&hide_border=true&border_radius=20)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabinoreyes&layout=compact&theme=radical&hide_border=true&border_radius=20)
-
----
-
-## 🏆 GitHub Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gabinoreyes&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+![F
 
 ---
 
